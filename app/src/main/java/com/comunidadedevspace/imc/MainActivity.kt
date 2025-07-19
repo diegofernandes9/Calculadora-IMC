@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         btnCalcular.setOnClickListener {
             val peso = edtPeso.text.toString().toFloat()
             val altura = edtAltura.text.toString().toFloat()
-            println("diego" + peso + altura)
 
             val alturaq2 = altura * altura
             val resultado = peso / alturaq2
