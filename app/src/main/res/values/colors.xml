@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary_400">#FFcd00ea</color>
+    <color name="primary_900">#FF5c00d2</color>
+    <color name="roxo_primario">#FF6A1B9A</color>
+    <color name="bege_fundo">#FFFFF8E1</color>
+    <color name="verde_classificacao">#FF4CAF50</color>
+    <color name="amarelo_classificacao">#FFFFEB3B</color>
+    <color name="laranja_classificacao">#FFFF9800</color>
+    <color name="vermelho_classificacao">#FFF44336</color>
+    <color name="vinho_classificacao">#FF800000</color>
+    <color name="texto_escuro">#FF212121</color>
+    <color name="hint_escuro">#FF616161</color>
 </resources>
